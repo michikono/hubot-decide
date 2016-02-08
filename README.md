@@ -1,6 +1,6 @@
 # Description
 
-A hubot script that runs decide analysis of chatrooms its in. For example:
+A hubot script that helps you make decisions. For example:
 
     you> We need to choose between wine or beer 
     hubot> let's go with beer!
