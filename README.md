@@ -30,4 +30,3 @@ Add it to your `external-scripts.json`:
 
 * The bot does not log chats
 * The bot needs brain to work (https://github.com/github/hubot/blob/master/src/brain.coffee)
-* (For Slack) The bot uses Slack's RTM API so older versions (<3.0) of hubot-slack will NOT work with this bot
