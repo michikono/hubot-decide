@@ -1,0 +1,28 @@
+{
+  "name": "hubot-decide",
+  "version": "1.0.0",
+  "author": "Michi Kono <michikono@gmail.com>",
+  "description": "Sentiment analysis for hubot",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "decide"
+  ],
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "underscore": "^1.7.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michikono/hubot-decide.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michikono/hubot-decide/issues"
+  },
+  "homepage": "https://github.com/michikono/hubot-decide"
+}
