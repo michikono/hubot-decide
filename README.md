@@ -29,4 +29,3 @@ Add it to your `external-scripts.json`:
 # Note
 
 * The bot does not log chats
-* The bot needs brain to work (https://github.com/github/hubot/blob/master/src/brain.coffee)
